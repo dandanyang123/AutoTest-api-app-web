@@ -1,0 +1,5 @@
+
+首页应用合集: "id==com.android.launcher3:id/preview_background"
+设置: "text==设置"
+点击wifi: 'xpath==//*[@resource-id="com.android.settings:id/dashboard_container"]/android.widget.LinearLayout[1]/android.view.View[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]'
+

@@ -1,0 +1,27 @@
+[
+  {
+  "name": "百度接口测试",
+  "url": "https://fanyi-api.baidu.com/api/trans/vip/translate",
+  "method": "GET",
+  "headers": {
+  },
+  "params": {
+    "q":"test",
+    "from":"en",
+    "to":"zh",
+    "appid":"20210103000662374",
+    "salt":"555",
+    "sign":"6920f89156766aece32ac15afcd6ff3b"
+  },
+  "expected_status": 200,
+  "expected_response": {
+    "from": "en",
+    "to": "zh",
+    "trans_result": [
+        {
+            "src": "test",
+            "dst": "测验"
+        }]
+  }
+  }
+]

@@ -1,0 +1,5 @@
+登录账号: "id==root"
+登录密码: "id==yang"
+登录账号框: "id==input_username"
+登录密码框: "id==input_password"
+登陆确认按钮: "id==input_go"
