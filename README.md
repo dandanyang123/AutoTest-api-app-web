@@ -1,7 +1,15 @@
 # api+app+web 
+主要技术：
+python
+自动化测试框架   pytest
+webui测试        seleium
+api测试          requests
+app测试          uiautomator2
+
+配置目录          config
+启动               main.py
+
 自己封装合并的api+app+web 自动化测试框架，仅供大家学习交流
-
-
 
 
 
